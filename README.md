@@ -7,3 +7,5 @@ Audio:
 4. When P2 runs out of stamina
 5. When one player begins to fall (game is over)
 6. When game is over and ending scene is loaded
+
+link to videos: https://drive.google.com/drive/folders/1cPiMfboAAu-eS32tDSsgreNMAAo2DI7x?usp=sharing
